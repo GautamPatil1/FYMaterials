@@ -1,0 +1,139 @@
+.card-container{
+    margin-top: 1rem;
+}
+
+.card{
+    background-color: #ccdba2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.left{
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    height: 20rem;
+    overflow: visible;
+}
+
+.left img{
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+}
+
+.right{
+    padding: 2rem;
+    width: 100%;
+    height: 20rem;
+    border-radius: 1rem;
+}
+.right a{
+    text-decoration: none;
+}
+
+#fyi{
+    background-color: #3b7420;
+    padding:1rem 2rem;
+}
+
+.right h1{
+    width: 100%;
+    text-align: center;
+    border-radius: 1rem;
+    border: 3px solid black;
+    margin-bottom: 1rem;
+    background-color: rgb(82, 102, 255);
+}
+#notes {
+    background-color: #ffe261;
+    width: 100%;
+}
+
+#notes .right{
+    margin-left: -15rem;
+    background-color: #FF7961;
+}
+
+#notes .right h1:hover{
+    background-color: #ffe261;
+    color: black;
+    border: 3px solid white;
+    transition: 0.3s ease-in-out;
+}
+
+#paper {
+    background-color: #5e8bcc;
+    width: 100%;
+}
+
+#paper .right{
+    background-color: #5CCCC2;
+}
+
+#paper .right h1:hover{
+    background-color: #5e8bcc;
+    color: black;
+    border: 3px solid white;
+    transition: 0.3s ease-in-out;
+}
+#paper .left{
+    margin-right: -15rem;
+}
+
+#journal{
+    background-color: white;
+}
+
+#journal .right{
+    margin-left: -15rem;
+    background-color: #8A2CCE;
+}
+
+#journal .right h1:hover{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    transition: 0.3s ease-in-out;
+}
+
+.right:hover{
+    transform: scale(1.1);
+    transition: 0.5s ease-in-out;
+}
+
+@media screen and (max-width: 768px){
+
+    .left{
+        height: 100%;
+    }
+    .card img{
+        height:19rem;
+        width: 19rem;
+    }
+    .card-container{
+        padding: 1rem;
+    }
+    .right{
+        height: 100%;
+    }
+    .card{
+        flex-direction: column;
+    }
+
+    #notes .right{
+        margin-left: 0;
+    }
+
+    #paper .left{
+        margin-right: 0;
+    }
+
+    #journal .right{
+        margin-left: 0;
+    }
+}
+

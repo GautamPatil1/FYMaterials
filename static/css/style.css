@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    margin: 0 20% 0 20%;
+}
+
+
+@media screen and (max-width: 768px){
+    .container{
+        margin: 0;
+    }
+}

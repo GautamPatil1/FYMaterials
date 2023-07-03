@@ -1,0 +1,20 @@
+{%extends 'base.html' %}
+{% load static %}
+{% block content %}
+<link rel="stylesheet" href="{% static 'css/subjects.css' %}">
+<div class="subjects-container">
+    <div class="subjects">
+        <a href="{% url 'subject' %}?material={{material}}&subject=mndc">Matrices and Differential Calculus</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=phy">Engineering Physics</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=iddc">Introductoin to Discrete Devices and Circuits</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=fda">Foundation of Data Analytics</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=cp">Computer Programming</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=icde">Integral Calculus and Differential Equations</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=las">Linear Algebra and Statistics</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=ec">Environmental Chemistry</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=mdc">Modelling of Digital circuits</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=cs">Communication Skills</a>
+        <a href="{% url 'subject' %}?material={{material}}&subject=pps">Python for Problem Solving</a>
+    </div>
+</div>
+{% endblock %}

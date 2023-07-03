@@ -1,0 +1,57 @@
+{% load static %}
+<link rel="stylesheet" href="{%static 'css/card.css'%}">
+
+<div class="card-container" >
+    <div class="card" id="notes">
+        <div class="left">
+            <img src="{%static 'journall.jpg' %}" alt="">
+        </div>
+        <div class="right">
+            <a href="{%url 'subjects' %}?material=notes"><h1>Notes</h1></a>
+            <h2>Here we provide you handwritten notes by toppers as well as digital notes, created by different teachers from multiple branches, short notes, and as well as Question banks.</h2>
+        </div>
+    </div>
+</div>
+
+<div class="card-container" >
+    <div class="card"id="paper">
+        <div class="right">
+            <a href="{% url 'subjects' %}?material=papers"><h1>Question Papers</h1></a>
+            <h2>You can download previous year question papers of all FY subjects from CAE- 1, 2, 3 to ESE. </h2>
+        </div>
+        <div class="left">
+            <img src="{%static 'paper.jpg' %}" alt="">
+        </div>
+        
+    </div>
+</div>
+
+<div class="card-container" >
+    <div class="card" id="journal">
+        <div class="left">
+            <img src="{%static 'journal.jpg' %}" alt="">
+        </div>
+        <div class="right">
+            <a href="{% url 'subjects' %}?material=journals"><h1>Journals</h1></a>
+            <h2>Writing journals, manuals is taxing we know. So here you go refer previous year manuals, journals, project ideas, etc.</h2>
+        </div>
+    </div>
+</div>
+
+<div class="card-container">
+    <div class="card" >
+        <div class="left"id="fyi">
+            <h1>
+                <center>
+                --> <strong> FYI </strong><--
+                </center>
+            </h1>
+            <h2>
+                This is an open source project created for betterment of students. You can contribute to this project by adding notes, question papers, journals, etc.
+                <br>
+                You are free to contribute via helping us in the development of the website, if you are a developer, by forking the project and creating a pull request.
+
+            </h2>
+        </div>
+    </div>
+</div>
