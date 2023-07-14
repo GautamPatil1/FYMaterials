@@ -33,7 +33,7 @@ We welcome contributions from the open-source community to enhance FYMaterials. 
 
 ## License
 
-FYMaterials is released under the [MIT License](LICENSE).
+FYMaterials is released under the [MIT License]([LICENSE](https://github.com/GautamPatil1/FYMaterials/edit/master/License.md)).
 
 ---
 
