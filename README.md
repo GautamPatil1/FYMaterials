@@ -31,6 +31,22 @@ To set up FYMaterials locally, follow these steps:
 
 We welcome contributions from the open-source community to enhance FYMaterials. If you would like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
 
+Developers
+
+    Gautam Patil (Front End, Back End, Database, Deployment)
+    Shrinivas Narhare (Front End , Design, UI/UX)
+    Ajay Pandit ( Security, Hosting)
+
+Resource Providers
+
+    
+    Shrinivas Narhare
+    Meet Patil
+    Saloni Parab
+    Ajay Pandit
+    Gautam Patil
+
+
 ## License
 
 FYMaterials is released under the [MIT License](https://github.com/GautamPatil1/FYMaterials/edit/master/License.md).
