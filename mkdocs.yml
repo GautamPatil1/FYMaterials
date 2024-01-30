@@ -34,7 +34,10 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/gautampatil1
     - icon: fontawesome/brands/discord
+      link: https://discord.gg/n5Um6t74
+    - icon: fontawesome/solid/indian-rupee-sign
       link: upi://pay?pa=8625057783@airtel&pn=GAUTAM SURESH PATIL&tn=Pay money to GAUTAM SURESH PATIL
   generator: false
 
 copyright: Copyright &copy; 2023 Gautam Patil
+
