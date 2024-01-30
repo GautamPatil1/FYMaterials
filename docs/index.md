@@ -4,11 +4,15 @@ comments: true
 
 # Welcome to FYMaterials
 
-by Gautam Patil
+FYMaterials is a comprehensive web application designed to cater to the academic needs of first-year students at GH Raisoni College of Engineering Pune. It serves as a centralized platform for accessing notes, previous year question papers, and journals, providing students with valuable resources to excel in their studies.
 
+FYMaterials is a project created by [me(Gautam Patil)](https://gautampatil.tech). Along with my other projects:
 
-lorem ipsum dolor sit amet, consectetur adipiscing
+- [TYMaterials](https://tymaterials.live)
+- [LofiPomo](https://lofipomo.gautampatil.tech)
+- [EBikeStore](https://ebikestore.tech)
+- [ShortStories](https://short-stories-webapp.vercel.app/)
 
-lorem ipsum dolor sit amet, consectetur adipiscing
+also visit [SYMaterials](https://symaterials.live) for your future reference.
 
-lorem ipsum dolor sit amet, consectetur adip
+If You want to contribute to this project feel free to DM me or PR on this project's github repository.

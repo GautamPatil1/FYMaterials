@@ -1,5 +1,6 @@
 site_name: FYMaterials
 theme:
+  favicon: https://raw.githubusercontent.com/GautamPatil1/FYMaterials/master/static/favicon.png
   name: material
   font: 
     text: Roboto 500
@@ -40,4 +41,39 @@ extra:
   generator: false
 
 copyright: Copyright &copy; 2023 Gautam Patil
+
+nav:
+  - Home: index.md
+  - About : about.md
+  - EP:
+    - EP/index.md
+    - Unit1: EP/Unit1.md
+    - Unit2: EP/Unit2.md
+    - Unit3: EP/Unit3.md
+    - Unit4: EP/Unit4.md
+    - Unit5: EP/Unit5.md
+
+  - FDA:
+    - FDA/index.md
+    - Unit1: FDA/Unit1.md
+    - Unit2: FDA/Unit2.md
+    - Unit3: FDA/Unit3.md
+    - Unit4: FDA/Unit4.md
+    - Unit5: FDA/Unit5.md
+  
+  - EE:
+    - EE/index.md
+    - Unit1: EE/Unit1.md
+    - Unit2: EE/Unit2.md
+    - Unit3: EE/Unit3.md
+    - Unit4: EE/Unit4.md
+    - Unit5: EE/Unit5.md
+
+  - IKS:
+    - IKS/index.md
+    - Unit1: IKS/Unit1.md
+    - Unit2: IKS/Unit2.md
+    - Unit3: IKS/Unit3.md
+    - Unit4: IKS/Unit4.md
+    - Unit5: IKS/Unit5.md
 
