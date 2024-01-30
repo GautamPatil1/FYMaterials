@@ -1,3 +1,40 @@
 site_name: FYMaterials
 theme:
   name: material
+  font: 
+    text: Roboto 500
+  features:
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gautampatil1
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/gautampatil1
+    - icon: fontawesome/brands/discord
+      link: upi://pay?pa=8625057783@airtel&pn=GAUTAM SURESH PATIL&tn=Pay money to GAUTAM SURESH PATIL
+  generator: false
+
+copyright: Copyright &copy; 2023 Gautam Patil
