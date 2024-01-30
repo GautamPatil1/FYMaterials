@@ -1,6 +1,6 @@
 # FYMaterials 
 
-![FYMaterials Logo](https://raw.githubusercontent.com/GautamPatil1/FYMaterials/master/static/favicon.png)
+![FYMaterials](tymaterials.live.png)
 
 FYMaterials is a comprehensive web application designed to cater to the academic needs of first-year students at GH Raisoni College of Engineering Pune. It serves as a centralized platform for accessing notes, previous year question papers, and journals, providing students with valuable resources to excel in their studies.
 
@@ -35,6 +35,13 @@ We welcome contributions from the open-source community to enhance FYMaterials. 
 - Ajay Pandit
 - Gautam Patil
 
+## Our Legacy
+
+![FYMaterials](fymaterials.live.jpg)
+
+![FYMaterials](tymaterials.live.png)
+
+![FYMaterials](fymaterials.png)
 ## License
 
 FYMaterials is released under the [MIT License](https://github.com/GautamPatil1/FYMaterials/edit/master/License.md).
