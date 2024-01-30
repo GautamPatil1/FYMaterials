@@ -1,5 +1,17 @@
 # Unit **I Electron Ballistics and Optics**
 
+## Table of Contents
+
+- [Unit **I Electron Ballistics and Optics**](#unit-i-electron-ballistics-and-optics)
+  - [Table of Contents](#table-of-contents)
+  - [Trajectories of electron in uniform Electric and](#trajectories-of-electron-in-uniform-electric-and)
+    - [Bethe’s law](#bethes-law)
+    - [Electron Lens](#electron-lens)
+    - [Devices- Electron microscope](#devices--electron-microscope)
+    - [**Principle of Electron Microscope**](#principle-of-electron-microscope)
+    - [**Application of Electron Microscope**](#application-of-electron-microscope)
+    - [(CRO) Cathode Ray Oscilloscope](#cro-cathode-ray-oscilloscope)
+
 ## Trajectories of electron in uniform Electric and
 
 Magnetic field (Qualitative)

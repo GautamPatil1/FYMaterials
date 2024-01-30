@@ -1,6 +1,6 @@
 site_name: FYMaterials
 theme:
-  favicon: https://raw.githubusercontent.com/GautamPatil1/FYMaterials/master/static/favicon.png
+  favicon: favicon.png
   name: material
   font: 
     text: Roboto 500
