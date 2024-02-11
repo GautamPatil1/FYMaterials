@@ -32,9 +32,13 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/gautampatil1
+      link: https://github.com/shrinivas9606
+    - icon: fontawesome/brands/github
+      link: https://github.com/gd2811
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/gautampatil1
+      link: https://linkedin.com/in/gunjankawale
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/shrinivas-narhare-ab5a0b208/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/n5Um6t74
     - icon: fontawesome/solid/indian-rupee-sign
