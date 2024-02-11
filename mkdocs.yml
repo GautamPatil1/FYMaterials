@@ -1,0 +1,88 @@
+site_name: FYMaterials
+theme:
+  favicon: favicon.png
+  logo : favicon.png
+  name: material
+  font: 
+    text: Roboto 500
+  features:
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: light green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/shrinivas9606
+    - icon: fontawesome/brands/github
+      link: https://github.com/gd2811
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/gunjankawale
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/shrinivas-narhare-ab5a0b208/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/n5Um6t74
+    - icon: fontawesome/solid/indian-rupee-sign
+      link: upi://pay?pa=8625057783@airtel&pn=GAUTAM SURESH PATIL&tn=Pay money to GAUTAM SURESH PATIL
+  generator: false
+
+copyright: Copyright &copy; 2023 Shrinivas Narhare & Gunjan Kawale
+
+nav:
+  - Home: index.md
+  - About : about.md
+  - EP:
+    - EP/index.md
+    - Unit1: EP/Unit1.md
+    - Unit2: EP/Unit2.md
+    - Unit3: EP/Unit3.md
+    - Unit4: EP/Unit4.md
+    - Unit5: EP/Unit5.md
+    - CAE-1-Question-bank: EP/EP-CAE-1-Question-Bank.md
+
+  - FDA:
+    - FDA/index.md
+    - Unit1: FDA/Unit1.md
+    - Unit2: FDA/Unit2.md
+    - Unit3: FDA/Unit3.md
+    - Unit4: FDA/Unit4.md
+    - Unit5: FDA/Unit5.md
+    - CAE-1-Question-bank: FDA/FDA-CAE-1-Question-Bank.md
+  
+  - EE:
+    - EE/index.md
+    - Unit1: EE/Unit1.md
+    - Unit2: EE/Unit2.md
+    - Unit3: EE/Unit3.md
+    - Unit4: EE/Unit4.md
+    - Unit5: EE/Unit5.md
+    - CAE-1-Question-bank: EE/EE-CAE-1-Question-Bank.md
+
+  - IKS:
+    - IKS/index.md
+    - Unit1: IKS/Unit1.md
+    - Unit2: IKS/Unit2.md
+    - Unit3: IKS/Unit3.md
+    - Unit4: IKS/Unit4.md
+    - Unit5: IKS/Unit5.md
+    - CAE-1-Question-bank: IKS/IKS-CAE-1-Question-Bank.md
+
