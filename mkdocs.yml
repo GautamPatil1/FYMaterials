@@ -41,7 +41,7 @@ extra:
       link: upi://pay?pa=8625057783@airtel&pn=GAUTAM SURESH PATIL&tn=Pay money to GAUTAM SURESH PATIL
   generator: false
 
-copyright: Copyright &copy; 2023 Gautam Patil & Gunjan Kawale
+copyright: Copyright &copy; 2023 Shrinivas Narhare & Gunjan Kawale
 
 nav:
   - Home: index.md
@@ -53,6 +53,7 @@ nav:
     - Unit3: EP/Unit3.md
     - Unit4: EP/Unit4.md
     - Unit5: EP/Unit5.md
+    - CAE-1-Question-bank: EP/EP-CAE-1-Question-Bank.md
 
   - FDA:
     - FDA/index.md
@@ -61,6 +62,7 @@ nav:
     - Unit3: FDA/Unit3.md
     - Unit4: FDA/Unit4.md
     - Unit5: FDA/Unit5.md
+    - CAE-1-Question-bank: FDA/FDA-CAE-1-Question-Bank.md
   
   - EE:
     - EE/index.md
@@ -69,6 +71,7 @@ nav:
     - Unit3: EE/Unit3.md
     - Unit4: EE/Unit4.md
     - Unit5: EE/Unit5.md
+    - CAE-1-Question-bank: EE/EE-CAE-1-Question-Bank.md
 
   - IKS:
     - IKS/index.md
@@ -77,4 +80,5 @@ nav:
     - Unit3: IKS/Unit3.md
     - Unit4: IKS/Unit4.md
     - Unit5: IKS/Unit5.md
+    - CAE-1-Question-bank: IKS/IKS-CAE-1-Question-Bank.md
 
