@@ -30,6 +30,10 @@ theme:
         name: Switch to light mode
 
 extra:
+  analytics:
+    provider: google 
+    property: G-P3VMB8L9PK
+
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/shrinivas9606
