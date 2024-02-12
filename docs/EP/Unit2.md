@@ -10,11 +10,6 @@ Interference
 
 - **Uniform film:** Constant thickness throughout the film (imagine a flat soap bubble).
 
-    [Opens in a new windowwww.researchgate.net](https://www.researchgate.net/figure/Geometry-of-a-a-uniform-and-b-a-non-uniform-weakly-absorbing-thin-film-onto-a-thick_fig1_345814539)
-
-    <https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKTnJDzY7kCv6lNENYx_QuC-GOgQtmzT5CMCwPz8WSXIv4z-f2hV7_YQgtG61N>
-
-    <https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQHnHFqVlgn9GP_QNJZJqp5p4tCYLbsP3aagcGHhOG1R5B49YpECY11Ifpa36Xt9B7B7i5sptMSQYILbaYUaLXDbBCp19SJHEuOmPv3eRw>
 
 - **Non-uniform film:** Thickness varies across the film (think of an oil slick on water).
 
