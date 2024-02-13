@@ -32,6 +32,8 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
+      link: https://github.com/GautamPatil1/FYMaterials
+    - icon: fontawesome/brands/github
       link: https://github.com/shrinivas9606
     - icon: fontawesome/brands/github
       link: https://github.com/gd2811
