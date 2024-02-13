@@ -3,6 +3,7 @@
 ## 1.Differentiate data analysis and data analytics
 
 - **Data Analysis:** Data analysis is the process of inspecting, cleaning, transforming, and modeling data to extract useful information, infer conclusions, and support decision-making. It involves techniques like data mining, statistical analysis, and machine learning.
+
 - **Data Analytics:** Data analytics is a broader term that encompasses the entire process of examining data sets to draw conclusions about the information they contain. It involves not only the analysis of data but also the application of statistical and mathematical techniques to derive insights, trends, and patterns. Data analytics often includes processes such as data visualization, predictive modeling, and optimization.
 
 | S.No. | Data Analytics | Data Analysis |
