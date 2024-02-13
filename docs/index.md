@@ -11,6 +11,7 @@ FYMaterials is a project created by me. Also visit my other projects:
 - [TYMaterials](https://tymaterials.live)
 - [LofiPomo](https://lofipomo.gautampatil.tech)
 - [EBikeStore](https://ebikestore.tech)
+- [PictoPixie](https://gautampatil1.github.io/pictopixie)
 - [ShortStories](https://short-stories-webapp.vercel.app/)
 
 also visit [SYMaterials](https://symaterials.live) for your future reference.
