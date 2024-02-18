@@ -16,4 +16,7 @@ FYMaterials is a project created by me. Also visit my other projects:
 
 also visit [SYMaterials](https://symaterials.live) for your future reference.
 
-If You want to contribute to this project feel free to DM me or PR on this project's github repository.
+If You want to contribute to this project feel free to DM me or  create a PR on this project's [github repository](https://github.com/GautamPatil1/FYMaterials).
+
+This Project is licensed under the [MIT license](https://github.com/GautamPatil1/FYMaterials/blob/master/LICENSE).
+
