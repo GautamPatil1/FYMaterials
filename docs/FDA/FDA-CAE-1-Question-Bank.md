@@ -123,14 +123,14 @@ Now, let's proceed with the calculations:
 
 ![Variance](variance.png)
 
-2. **Range:**
+2.**Range:**
 
     - Range is the difference between the maximum and minimum values in the dataset.
     - Range = Maximum value - Minimum value.
     - Maximum value = 52, Minimum value = 26.
     - Range = 52 - 26 = 26.
 
-3. **Quartiles:**
+3.**Quartiles:**
 
     - Quartiles divide the dataset into four equal parts.
     - We will use the Excel function to find quartiles.
