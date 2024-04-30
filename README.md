@@ -37,6 +37,7 @@ Developers
     Gautam Patil (Front End, Back End, Database, Deployment)
     Shrinivas Narhare (Front End , Design, UI/UX)
     Ajay Pandit ( Security, Hosting)
+    Gunjan Kawale
 
 Resource Providers
 
