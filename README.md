@@ -37,6 +37,7 @@ Developers
     Gautam Patil (Front End, Back End, Database, Deployment)
     Shrinivas Narhare (Front End , Design, UI/UX)
     Ajay Pandit ( Security, Hosting)
+    Gunjan Kawale (Backend Development)
 
 Resource Providers
 
@@ -55,4 +56,3 @@ FYMaterials is released under the [MIT License](https://github.com/GautamPatil1/
 ---
 
 For more details and information, visit the [FYMaterials website](https://fymaterials.tech) or contact our team at [fymaterials@outlook.com](mailto:fymaterials@outlook.com).
-
